@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Developer and Web Developer 
 - 🌱 I’m currently learning Python, HTML, CS, JS, Blender, Android Studio and Figma
 - 📫 How to reach me DM me in any of my social media below:
-- Instagram: https://www.instagram.com/asrl.fhmi?igsh=MXNmZGMyeDVxbjhoNw==
+- Instagram: https://www.instagram.com/asrulfami/?next=%2F
 - LinkedIn: https://www.linkedin.com/in/asrul-fami-5b6126235
 - Twitter: https://x.com/aonel_asrul?t=KXPOA4r00aub1Ucu5KZNhg&s=09
 - 😄 Pronouns: he/him
