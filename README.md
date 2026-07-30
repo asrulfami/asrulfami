@@ -2,25 +2,41 @@
 
 # 👻 Asrul Fami
 
-### Laravel Developer • Backend Developer • Business Application Developer
+### Laravel & Backend Developer
 
 <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Laravel+Business+Applications;Developing+Approval+Workflow+Systems;Creating+Multi-Company+Applications;Writing+Clean+and+Maintainable+Code"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=720&lines=Building+Modern+Laravel+Applications;Designing+Multi-Level+Approval+Workflows;Developing+Multi-Company+Systems;Turning+Business+Processes+Into+Clean+Code"
+    alt="Typing introduction"
 />
+
+<br>
+
+<a href="https://github.com/asrulfami">
+    <img
+        src="https://img.shields.io/badge/GitHub-asrulfami-0D001A?style=for-the-badge&logo=github&logoColor=A855F7"
+        alt="GitHub Profile"
+    />
+</a>
+
+<a href="https://www.linkedin.com/in/asrulfami/">
+    <img
+        src="https://img.shields.io/badge/LinkedIn-asrulfami-2B0A52?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"
+        alt="LinkedIn Profile"
+    />
+</a>
+
+<a href="mailto:asrulfamiwork@gmail.com">
+    <img
+        src="https://img.shields.io/badge/Gmail-Contact_Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Send Email"
+    />
+</a>
 
 <br><br>
 
 <a href="https://github.com/asrulfami">
     <img
-        src="https://img.shields.io/badge/GitHub-asrulfami-7C3AED?style=for-the-badge&logo=github&logoColor=white"
-        alt="GitHub Profile"
-    />
-</a>
-
-<a href="https://github.com/asrulfami">
-    <img
-        src="https://komarev.com/ghpvc/?username=asrulfami&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"
+        src="https://komarev.com/ghpvc/?username=asrulfami&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"
         alt="Profile Views"
     />
 </a>
@@ -29,25 +45,28 @@
 
 ---
 
-## 👻 About Me
+## 👨‍💻 About Me
 
-Hello, I'm **Asrul Fami**, a Laravel developer from Indonesia.
+Laravel developer from Indonesia focused on building structured business
+applications, approval workflows, reporting systems, and multi-company
+architectures.
 
-I develop business applications with a focus on structured workflows,
-maintainable code, multi-company architecture, and user-friendly interfaces.
+```text
+Role        Laravel & Backend Developer
+Focus       Business Applications and Workflow Systems
+Currently   Developing OneIS Central
+Location    Indonesia
+```
 
-- 🔮 Building business applications with Laravel
-- 🟣 Developing multi-company and multi-database systems
-- 👻 Creating multi-level approval workflows
-- 📊 Implementing Excel import and export
-- 📄 Generating structured PDF reports
-- 🔐 Managing roles and permissions
-- 🛠️ Developing IT support workflow systems
-- 🌙 Learning clean architecture and system design
+- Building maintainable Laravel business applications
+- Developing multi-company and multi-database systems
+- Designing role-based approval workflows
+- Creating Excel and PDF reporting systems
+- Implementing audit logs, notifications, and digital signatures
 
 ---
 
-## 🟣 Tech Stack
+## ⚡ Technology Stack
 
 <div align="center">
 
@@ -56,35 +75,31 @@ maintainable code, multi-company architecture, and user-friendly interfaces.
     alt="Technology Stack"
 />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
-    src="https://img.shields.io/badge/PHP-0D001A?style=for-the-badge&logo=php&logoColor=A855F7"
-    alt="PHP"
-/>
-
-<img
-    src="https://img.shields.io/badge/Laravel-2B0A52?style=for-the-badge&logo=laravel&logoColor=ffffff"
+    src="https://img.shields.io/badge/Laravel-0D001A?style=flat-square&logo=laravel&logoColor=A855F7"
     alt="Laravel"
 />
 
 <img
-    src="https://img.shields.io/badge/MySQL-0D001A?style=for-the-badge&logo=mysql&logoColor=A855F7"
+    src="https://img.shields.io/badge/MySQL-2B0A52?style=flat-square&logo=mysql&logoColor=white"
     alt="MySQL"
 />
 
 <img
-    src="https://img.shields.io/badge/JavaScript-2B0A52?style=for-the-badge&logo=javascript&logoColor=ffffff"
+    src="https://img.shields.io/badge/JavaScript-0D001A?style=flat-square&logo=javascript&logoColor=A855F7"
     alt="JavaScript"
 />
 
 <img
-    src="https://img.shields.io/badge/Bootstrap-0D001A?style=for-the-badge&logo=bootstrap&logoColor=A855F7"
+    src="https://img.shields.io/badge/Bootstrap-2B0A52?style=flat-square&logo=bootstrap&logoColor=white"
     alt="Bootstrap"
+/>
+
+<img
+    src="https://img.shields.io/badge/jQuery-0D001A?style=flat-square&logo=jquery&logoColor=A855F7"
+    alt="jQuery"
 />
 
 </div>
@@ -97,15 +112,14 @@ maintainable code, multi-company architecture, and user-friendly interfaces.
 <tr>
 <td width="50%" valign="top">
 
-### 👻 Business Applications
+### 🏢 Business Systems
 
 - Master data management
-- Dashboard summaries
-- Advanced filtering
-- Server-side pagination
-- Import and export
-- Role-based access
-- Multi-company operations
+- Operational request modules
+- Multi-company architecture
+- Server-side datatables
+- Search and advanced filters
+- Role-based access control
 
 </td>
 
@@ -115,10 +129,9 @@ maintainable code, multi-company architecture, and user-friendly interfaces.
 
 - Draft and submission
 - Multi-level approval
-- Checker and approver stages
 - Return for revision
 - Rejection and cancellation
-- Approval history
+- Process histories
 - Digital signatures
 
 </td>
@@ -129,19 +142,18 @@ maintainable code, multi-company architecture, and user-friendly interfaces.
 
 ### 🛠️ IT Support Systems
 
-- IT complaint submission
+- IT issue submissions
 - Supporting photo uploads
-- IT investigation workflow
+- Investigation workflows
 - Analysis and recommendations
 - Supervisor confirmation
-- Process timeline
 - User notifications
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌙 Reporting Systems
+### 📊 Reporting Systems
 
 - Excel import templates
 - Filtered Excel exports
@@ -149,7 +161,6 @@ maintainable code, multi-company architecture, and user-friendly interfaces.
 - Company document headers
 - Approval timestamps
 - Jakarta timezone formatting
-- Downloadable documents
 
 </td>
 </tr>
@@ -157,143 +168,66 @@ maintainable code, multi-company architecture, and user-friendly interfaces.
 
 ---
 
-## 🚀 Featured Experience
+## 🚀 Featured Project
+
+<div align="center">
 
 ### 🟣 OneIS Central
 
-A Laravel-based multi-company business application designed to manage
-master data, operational requests, approval workflows, reporting, and
-role-based access across multiple companies.
+**Multi-Company Business Application built with Laravel**
 
-**Main modules:**
+<img
+    src="https://img.shields.io/badge/Status-Active_Development-7C3AED?style=for-the-badge&labelColor=0D001A"
+    alt="Active Development"
+/>
 
-- Customer Master Request
-- Item Master Request
-- IT Recommendation
-- Master Data Management
-- User Management
-- Role and Permission Management
-- Excel Import and Export
-- PDF Report Generation
-- Multi-Company Database Management
+<img
+    src="https://img.shields.io/badge/Architecture-Multi_Company-7C3AED?style=for-the-badge&labelColor=0D001A"
+    alt="Multi Company"
+/>
 
-**Core capabilities:**
+<img
+    src="https://img.shields.io/badge/Backend-Laravel-7C3AED?style=for-the-badge&labelColor=0D001A"
+    alt="Laravel Backend"
+/>
 
-- Separate database configuration for each company
-- Company-based data access
-- Multi-level approval processes
-- Permission-based action buttons
-- Server-side datatables
-- Search, filters, and pagination
-- Audit logs and process history
-- Excel and PDF reporting
-- Digital signature integration
+</div>
 
----
+<br>
 
-### 👥 Customer Master Request
+OneIS Central is a Laravel-based enterprise application for managing master
+data, operational requests, approval workflows, reporting, permissions, and
+company-specific databases.
 
-A structured customer master-data request system with supporting documents,
-approval stages, customer-code assignment, and reporting.
+### Main Modules
 
-**Workflow:**
+<table>
+<tr>
+<td width="33%" align="center">
 
-`Draft` → `Submitted` → `Checked by AR` → `Approved by Head Sales` → `Final Approved`
+### 👥 Customer
 
-**Main features:**
+Customer Master Request
 
-- Create, edit, and submit customer requests
-- New, update, delete, and re-activate actions
-- Customer supporting document uploads
-- Supporting documents based on customer category
-- AR Staff checking
-- Head of Sales approval
-- FAT Manager final approval
-- Return for revision
-- Rejection and cancellation
-- Customer-code assignment
-- Existing customer data loading
-- Excel export
-- PDF approval reports
-- Role-based permissions
+</td>
+<td width="33%" align="center">
 
----
+### 📦 Item
 
-### 📦 Item Master Request
+Item Master Request
 
-A master-item request workflow for managing new items, updates, deletions,
-reactivations, item-code assignments, and approval processes.
+</td>
+<td width="33%" align="center">
 
-**Workflow:**
+### 🛠️ IT
 
-`Draft` → `Submitted` → `Head Division Approval` → `Final Approval`
+IT Recommendation
 
-**Main features:**
+</td>
+</tr>
+</table>
 
-- Draft and submit item requests
-- Inventory and non-inventory item handling
-- Item type and inventory type configuration
-- Warehouse and unit information
-- Cost and sales-price fields
-- Head Division approval
-- FAT Manager final approval
-- Return for revision
-- Rejection and cancellation
-- Item-number assignment
-- Request history
-- Excel export
-- PDF reports
-- Permission-based actions
-
----
-
-### 👻 IT Recommendation System
-
-A structured IT complaint and recommendation workflow for managing
-technical issues from user submission until supervisor confirmation.
-
-**Workflow:**
-
-`Draft` → `Waiting IT Support` → `Process IT Support` → `Waiting Supervisor` → `Completed`
-
-**Alternative statuses:**
-
-`Rejected by IT` • `Cancelled` • `Deleted`
-
-**Main features:**
-
-- Draft and submit IT requests
-- Automatic request-number generation
-- User, NIK, company, and department information
-- Location and problem descriptions
-- Multiple supporting photo uploads
-- Description for each uploaded photo
-- Image type and file-size validation
-- IT Support investigation confirmation
-- Analysis and investigation results
-- Recommended solutions and handling instructions
-- Additional IT Support notes
-- IT Support rejection with rejection reason
-- Supervisor confirmation and completion
-- Request cancellation
-- Draft deletion
-- Existing photo deletion
-- Process history and audit logs
-- Role-based action permissions
-- Notifications for users and approvers
-- Excel export by date and department
-- PDF reports with company identity
-- Digital signatures for requester, IT Support, and supervisor
-- Multi-company and separate database support
-
-**Technology:**
-
-`Laravel` `Blade` `JavaScript` `jQuery` `Bootstrap` `MySQL`
-`Laravel Excel` `DomPDF` `SweetAlert`
-
----
-
-## 🧩 Development Highlights
+### Core Capabilities
 
 <div align="center">
 
@@ -303,7 +237,7 @@ technical issues from user submission until supervisor confirmation.
 />
 
 <img
-    src="https://img.shields.io/badge/Approval_Workflow-2B0A52?style=for-the-badge&logo=gitbook&logoColor=ffffff"
+    src="https://img.shields.io/badge/Approval_Workflow-2B0A52?style=for-the-badge&logo=gitbook&logoColor=white"
     alt="Approval Workflow"
 />
 
@@ -313,7 +247,7 @@ technical issues from user submission until supervisor confirmation.
 />
 
 <img
-    src="https://img.shields.io/badge/Excel_Reports-2B0A52?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff"
+    src="https://img.shields.io/badge/Excel_Reports-2B0A52?style=for-the-badge&logo=microsoftexcel&logoColor=white"
     alt="Excel Reports"
 />
 
@@ -324,60 +258,144 @@ technical issues from user submission until supervisor confirmation.
 
 </div>
 
+<br>
+
+<details>
+<summary><strong>👥 Customer Master Request</strong></summary>
+
+<br>
+
+Customer master-data request system with supporting documents,
+customer-code assignment, and multi-level approval.
+
+**Workflow**
+
+`Draft` → `Submitted` → `Checked by AR` → `Head Sales Approval` → `Final Approval`
+
+**Highlights**
+
+- New, update, delete, and re-activate requests
+- Supporting documents based on customer category
+- AR Staff checking
+- Head of Sales approval
+- FAT Manager final approval
+- Return, rejection, and cancellation
+- Existing customer data loading
+- Customer-code assignment
+- Excel export and PDF reports
+- Role-based action permissions
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>📦 Item Master Request</strong></summary>
+
+<br>
+
+Master-item request workflow for creating, updating, deleting,
+reactivating, and assigning item numbers.
+
+**Workflow**
+
+`Draft` → `Submitted` → `Head Division Approval` → `Final Approval`
+
+**Highlights**
+
+- Inventory and non-inventory item handling
+- Item and inventory-type configuration
+- Warehouse, unit, cost, and sales-price data
+- Head Division approval
+- FAT Manager final approval
+- Return, rejection, and cancellation
+- Item-number assignment
+- Request history
+- Excel export and PDF reports
+- Permission-based actions
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🛠️ IT Recommendation System</strong></summary>
+
+<br>
+
+IT complaint and recommendation workflow for managing technical issues
+from user submission until supervisor confirmation.
+
+**Workflow**
+
+`Draft` → `Waiting IT Support` → `Process IT Support` → `Waiting Supervisor` → `Completed`
+
+**Alternative Statuses**
+
+`Rejected by IT` • `Cancelled` • `Deleted`
+
+**Highlights**
+
+- Draft and submit IT requests
+- Automatic request-number generation
+- User, NIK, company, and department information
+- Multiple photo uploads with descriptions
+- File type and size validation
+- IT Support investigation confirmation
+- Analysis and investigation results
+- Recommended solutions and handling instructions
+- IT Support rejection with reasons
+- Supervisor confirmation
+- Process timeline and audit logs
+- User and approver notifications
+- Excel export by period and department
+- PDF reports with company identity
+- Digital signatures for all approval parties
+- Multi-company database support
+
+</details>
+
 ---
 
-## 📊 GitHub Statistics
+## 🧠 Engineering Focus
 
-<div align="center">
-
-<img
-    height="170"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=asrulfami&show_icons=true&hide_border=true&bg_color=0D001A&title_color=A855F7&icon_color=8B5CF6&text_color=E9D5FF"
-    alt="Asrul Fami GitHub Statistics"
-/>
-
-<br><br>
-
-<img
-    height="170"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asrulfami&layout=compact&hide_border=true&bg_color=0D001A&title_color=A855F7&text_color=E9D5FF"
-    alt="Asrul Fami Most Used Languages"
-/>
-
-</div>
+```text
+Clean Code             ███████████████████░
+Laravel Development    ███████████████████░
+Business Workflows     ██████████████████░░
+Database Design        █████████████████░░░
+JavaScript             ████████████████░░░░
+System Architecture    ███████████████░░░░░
+```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/asrulfami">
     <img
-        src="https://img.shields.io/badge/GitHub-0D001A?style=for-the-badge&logo=github&logoColor=A855F7"
+        src="https://img.shields.io/badge/GitHub-Visit_Profile-0D001A?style=for-the-badge&logo=github&logoColor=A855F7"
         alt="GitHub Profile"
     />
 </a>
 
 <a href="https://www.linkedin.com/in/asrulfami/">
     <img
-        src="https://img.shields.io/badge/LinkedIn-2B0A52?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"
+        src="https://img.shields.io/badge/LinkedIn-Connect-2B0A52?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"
         alt="LinkedIn Profile"
     />
 </a>
 
 <a href="mailto:asrulfamiwork@gmail.com">
     <img
-        src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/Gmail-asrulfamiwork@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"
         alt="Send Email"
     />
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### 👻 Code Quietly. Build Powerfully.
 
