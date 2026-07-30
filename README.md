@@ -18,10 +18,12 @@
     />
 </a>
 
-<img
- src="https://komarev.com/ghpvc/?username=asrulfami&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"
- alt="Profile views"
-/>
+<a href="https://github.com/asrulfami">
+    <img
+        src="https://komarev.com/ghpvc/?username=asrulfami&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"
+        alt="Profile Views"
+    />
+</a>
 
 </div>
 
@@ -176,6 +178,6 @@ A Laravel-based multi-company business application containing master data module
 
 ### 👻 Code Quietly. Build Powerfully.
 
-![Ghost Purple](https://img.shields.io/badge/GHOST_PURPLE-DARK_MODE-7C3AED?style=for-the-badge\&labelColor=0D001A)
+![Ghost Purple](https://img.shields.io/badge/GHOST_PURPLE-DARK_MODE-7C3AED?style=for-the-badge&labelColor=0D001A)
 
 </div>
