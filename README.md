@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D001A,50:4C1D95,100:A855F7&text=Asrul%20Fami&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Laravel%20Developer%20%E2%80%A2%20Backend%20Developer&descSize=17&descAlignY=60"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D001A,50:4C1D95,100:A855F7&text=Asrul%20Fami&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=IT%20Developer&descSize=17&descAlignY=60"
 alt="Asrul Fami banner"
 />
 
