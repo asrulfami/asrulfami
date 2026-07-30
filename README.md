@@ -1,59 +1,45 @@
 <div align="center">
 
-<img
- src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,45:2b0a52,100:7c3aed&text=Asrul%20Fami&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Laravel%20Developer%20%7C%20Backend%20Developer&descAlignY=60&animation=fadeIn"
-/>
+# 👻 Asrul Fami
+
+### Laravel Developer • Backend Developer • Business Application Developer
 
 <img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Laravel+Business+Applications;Creating+Multi-Level+Approval+Workflows;Developing+Multi-Company+Systems;Turning+Complex+Processes+Into+Clean+Code"
+ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Laravel+Business+Applications;Developing+Approval+Workflow+Systems;Creating+Multi-Company+Applications;Writing+Clean+and+Maintainable+Code"
+ alt="Typing SVG"
 />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=asrulfami&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+<a href="https://github.com/asrulfami">
+    <img
+        src="https://img.shields.io/badge/GitHub-asrulfami-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub"
+    />
+</a>
+
+<img
+ src="https://komarev.com/ghpvc/?username=asrulfami&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"
+ alt="Profile views"
+/>
 
 </div>
 
 ---
 
-<h2>
-    <img
-        src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-        width="28"
-    />
-    About Me
-</h2>
+## 👻 About Me
 
-```php
-<?php
+Hello, I'm **Asrul Fami**, a Laravel developer from Indonesia.
 
-$developer = [
-    'name' => 'Asrul Fami',
-    'role' => 'Laravel Developer',
-    'location' => 'Indonesia',
-    'focus' => [
-        'Business Applications',
-        'Approval Workflows',
-        'Master Data Management',
-        'Multi-Company Systems',
-    ],
-    'currently_learning' => [
-        'Laravel Architecture',
-        'Clean Code',
-        'JavaScript',
-        'System Design',
-    ],
-];
+I develop business applications with a focus on structured workflows, maintainable code, and user-friendly interfaces.
 
-echo 'Building reliable systems with clean and maintainable code.';
-```
-
-* 🔮 Building business applications using **Laravel**
-* 👻 Experienced with multi-level approval workflows
-* 🟣 Developing multi-company and multi-database systems
-* 📊 Working with Excel import/export and PDF reports
-* 🔐 Implementing role-based access and permissions
-* 🌙 Interested in clean architecture and maintainable code
+* 🔮 Building business applications with Laravel
+* 🟣 Developing multi-company systems
+* 👻 Creating multi-level approval workflows
+* 📊 Implementing Excel import and export
+* 📄 Generating PDF reports
+* 🔐 Managing roles and permissions
+* 🌙 Learning clean architecture and system design
 
 ---
 
@@ -61,67 +47,41 @@ echo 'Building reliable systems with clean and maintainable code.';
 
 <div align="center">
 
-### Ghost Core
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,jquery,bootstrap" />
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-
-### Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,redis,linux" />
+<img
+ src="https://skillicons.dev/icons?i=php,laravel,mysql,js,jquery,bootstrap,git,github,vscode,postman"
+ alt="Technology stack"
+/>
 
 </div>
 
 ---
 
-## 👻 Featured Projects
+## 🌌 What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟣 OneIS Central
+### 👻 Business Applications
 
-Multi-company business application developed using Laravel.
-
-**Main Features**
-
-* Customer Master Request
-* Item Master Request
-* Multi-level approval workflow
-* Company-based database management
-* Role and permission management
-* Excel import and export
-* PDF report generation
-
-**Technology**
-
-`Laravel` `MySQL` `Bootstrap` `JavaScript`
+* Master data management
+* Dashboard summaries
+* Data import and export
+* Advanced filtering
+* Server-side pagination
+* Role-based access
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔮 Master Data Management
+### 🔮 Approval Workflows
 
-Reusable master-data modules for enterprise applications.
-
-**Main Features**
-
-* Server-side pagination
-* Advanced searching and filtering
-* Dashboard summary
-* Import and export
-* Active and inactive status
-* Multi-company access
-* Permission-based actions
-
-**Technology**
-
-`Laravel` `jQuery` `Bootstrap Table` `MySQL`
+* Draft and submission
+* Multi-level approval
+* Return for revision
+* Rejection and cancellation
+* Approval history
+* PDF approval reports
 
 </td>
 </tr>
@@ -129,45 +89,26 @@ Reusable master-data modules for enterprise applications.
 <tr>
 <td width="50%" valign="top">
 
-### 🌙 Approval Workflow System
+### 🟣 Multi-Company Systems
 
-Configurable request and approval workflow system.
-
-**Workflow Features**
-
-* Draft and submission
-* Checker approval
-* Manager approval
-* Final approval
-* Return for revision
-* Rejection and cancellation
-* Approval history
-
-**Technology**
-
-`Laravel` `JavaScript` `MySQL`
+* Company-based access
+* Separate company databases
+* Company data filtering
+* Role assignments
+* Centralized configuration
+* Permission management
 
 </td>
-
 <td width="50%" valign="top">
 
-### ⚡ Laravel Import Export
-
-Excel processing and reporting system for Laravel.
-
-**Main Features**
+### 🌙 Reporting Systems
 
 * Excel import templates
+* Excel export reports
 * Data validation
-* Error reporting
-* Filtered exports
-* Styled Excel reports
-* Asia/Jakarta date formatting
-* PDF document generation
-
-**Technology**
-
-`Laravel Excel` `PhpSpreadsheet` `DomPDF`
+* PDF generation
+* Jakarta timezone formatting
+* Downloadable documents
 
 </td>
 </tr>
@@ -175,70 +116,44 @@ Excel processing and reporting system for Laravel.
 
 ---
 
-## 🌌 GitHub Analytics
+## 🚀 Featured Experience
+
+### OneIS Central
+
+A Laravel-based multi-company business application containing master data modules, request workflows, approval processes, reporting, and role-based access control.
+
+**Main modules and features:**
+
+* Customer Master Request
+* Item Master Request
+* Master Data Management
+* Multi-Level Approval Workflow
+* Excel Import and Export
+* PDF Report Generation
+* Company-Based Database Management
+* Role and Permission Management
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
- height="180"
- src="https://github-readme-stats.vercel.app/api?username=asrulfami&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D001A&title_color=A855F7&icon_color=7C3AED&text_color=E9D5FF"
+ height="170"
+ src="https://github-readme-stats.vercel.app/api?username=asrulfami&show_icons=true&hide_border=true&bg_color=0D001A&title_color=A855F7&icon_color=8B5CF6&text_color=E9D5FF"
+ alt="Asrul Fami GitHub statistics"
 />
 
+<br><br>
+
 <img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrulfami&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D001A&title_color=A855F7&text_color=E9D5FF"
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrulfami&layout=compact&hide_border=true&bg_color=0D001A&title_color=A855F7&text_color=E9D5FF"
+ alt="Most used languages"
 />
 
 </div>
-
-<div align="center">
-
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=asrulfami&theme=midnight-purple&hide_border=true&background=0D001A&ring=7C3AED&fire=A855F7&currStreakLabel=C4B5FD"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Ghost
-
-<div align="center">
-
-<img
- src="https://raw.githubusercontent.com/asrulfami/asrulfami/output/github-contribution-grid-snake-dark.svg"
- alt="GitHub contribution snake"
-/>
-
-</div>
-
----
-
-## 🕯️ Current Focus
-
-```text
-[■■■■■■■■■□] Laravel Development
-[■■■■■■■■□□] Backend Architecture
-[■■■■■■■■□□] Business Workflows
-[■■■■■■■□□□] JavaScript
-[■■■■■■□□□□] System Design
-```
-
----
-
-## 🟪 Development Philosophy
-
-> Clean code is not only about making software work.
-> It is about making software understandable, maintainable, and reliable.
-
-```javascript
-const developmentPrinciples = {
-    code: "Clean",
-    architecture: "Maintainable",
-    workflow: "Reliable",
-    improvement: "Continuous",
-};
-```
 
 ---
 
@@ -246,40 +161,21 @@ const developmentPrinciples = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/asrulfami">
-    <img
-        src="https://img.shields.io/badge/LinkedIn-2B0A52?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"
-    />
-</a>
-
-<a href="mailto:asrulfamiwork@gmail.com">
-    <img
-        src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=ffffff"
-    />
-</a>
-
 <a href="https://github.com/asrulfami">
     <img
         src="https://img.shields.io/badge/GitHub-0D001A?style=for-the-badge&logo=github&logoColor=A855F7"
+        alt="GitHub profile"
     />
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║     Code quietly. Build powerfully.      ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+### 👻 Code Quietly. Build Powerfully.
 
-<img
- src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:2b0a52,100:090014"
-/>
+![Ghost Purple](https://img.shields.io/badge/GHOST_PURPLE-DARK_MODE-7C3AED?style=for-the-badge\&labelColor=0D001A)
 
 </div>
