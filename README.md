@@ -1,34 +1,36 @@
 <div align="center">
 
-# 👻 Asrul Fami
-
-### Laravel & Backend Developer
-
 <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=720&lines=Building+Modern+Laravel+Applications;Designing+Multi-Level+Approval+Workflows;Developing+Multi-Company+Systems;Turning+Business+Processes+Into+Clean+Code"
-    alt="Typing introduction"
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,50:2E1065,100:7C3AED&text=Asrul%20Fami&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Laravel%20%26%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
+    alt="Asrul Fami"
 />
 
-<br>
+<img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Building+Modern+Laravel+Applications;Designing+Business+Workflow+Systems;Developing+Multi-Company+Architecture;Turning+Complex+Processes+Into+Clean+Code"
+    alt="Typing Introduction"
+/>
+
+<br><br>
 
 <a href="https://github.com/asrulfami">
     <img
         src="https://img.shields.io/badge/GitHub-asrulfami-0D001A?style=for-the-badge&logo=github&logoColor=A855F7"
-        alt="GitHub Profile"
+        alt="GitHub"
     />
 </a>
 
 <a href="https://www.linkedin.com/in/asrulfami/">
     <img
-        src="https://img.shields.io/badge/LinkedIn-asrulfami-2B0A52?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"
-        alt="LinkedIn Profile"
+        src="https://img.shields.io/badge/LinkedIn-asrulfami-2E1065?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+        alt="LinkedIn"
     />
 </a>
 
 <a href="mailto:asrulfamiwork@gmail.com">
     <img
-        src="https://img.shields.io/badge/Gmail-Contact_Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Send Email"
+        src="https://img.shields.io/badge/Gmail-Contact_Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
+        alt="Gmail"
     />
 </a>
 
@@ -45,28 +47,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👻 About Me
 
-Laravel developer from Indonesia focused on building structured business
-applications, approval workflows, reporting systems, and multi-company
-architectures.
+Laravel and Backend Developer from Indonesia, focused on building modern
+business applications, structured workflows, and maintainable systems.
 
-```text
-Role        Laravel & Backend Developer
-Focus       Business Applications and Workflow Systems
-Currently   Developing OneIS Central
-Location    Indonesia
-```
-
-- Building maintainable Laravel business applications
-- Developing multi-company and multi-database systems
-- Designing role-based approval workflows
-- Creating Excel and PDF reporting systems
-- Implementing audit logs, notifications, and digital signatures
+- 🟣 Building applications with Laravel
+- 🏢 Developing multi-company systems
+- 🔐 Designing role-based access and approval workflows
+- 📊 Creating Excel and PDF reporting solutions
+- 🌱 Exploring clean architecture and system design
 
 ---
 
-## ⚡ Technology Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -75,26 +69,30 @@ Location    Indonesia
     alt="Technology Stack"
 />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img
-    src="https://img.shields.io/badge/Laravel-0D001A?style=flat-square&logo=laravel&logoColor=A855F7"
+    src="https://img.shields.io/badge/PHP-0D001A?style=flat-square&logo=php&logoColor=A855F7"
+    alt="PHP"
+/>
+
+<img
+    src="https://img.shields.io/badge/Laravel-2E1065?style=flat-square&logo=laravel&logoColor=FFFFFF"
     alt="Laravel"
 />
 
 <img
-    src="https://img.shields.io/badge/MySQL-2B0A52?style=flat-square&logo=mysql&logoColor=white"
+    src="https://img.shields.io/badge/MySQL-0D001A?style=flat-square&logo=mysql&logoColor=A855F7"
     alt="MySQL"
 />
 
 <img
-    src="https://img.shields.io/badge/JavaScript-0D001A?style=flat-square&logo=javascript&logoColor=A855F7"
+    src="https://img.shields.io/badge/JavaScript-2E1065?style=flat-square&logo=javascript&logoColor=FFFFFF"
     alt="JavaScript"
-/>
-
-<img
-    src="https://img.shields.io/badge/Bootstrap-2B0A52?style=flat-square&logo=bootstrap&logoColor=white"
-    alt="Bootstrap"
 />
 
 <img
@@ -102,79 +100,24 @@ Location    Indonesia
     alt="jQuery"
 />
 
+<img
+    src="https://img.shields.io/badge/Bootstrap-2E1065?style=flat-square&logo=bootstrap&logoColor=FFFFFF"
+    alt="Bootstrap"
+/>
+
 </div>
 
 ---
 
-## 🌌 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Business Systems
-
-- Master data management
-- Operational request modules
-- Multi-company architecture
-- Server-side datatables
-- Search and advanced filters
-- Role-based access control
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔮 Approval Workflows
-
-- Draft and submission
-- Multi-level approval
-- Return for revision
-- Rejection and cancellation
-- Process histories
-- Digital signatures
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ IT Support Systems
-
-- IT issue submissions
-- Supporting photo uploads
-- Investigation workflows
-- Analysis and recommendations
-- Supervisor confirmation
-- User notifications
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Reporting Systems
-
-- Excel import templates
-- Filtered Excel exports
-- PDF report generation
-- Company document headers
-- Approval timestamps
-- Jakarta timezone formatting
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Project
+## 🚀 Currently Building
 
 <div align="center">
 
 ### 🟣 OneIS Central
 
-**Multi-Company Business Application built with Laravel**
+**A multi-company business application built with Laravel.**
+
+<br>
 
 <img
     src="https://img.shields.io/badge/Status-Active_Development-7C3AED?style=for-the-badge&labelColor=0D001A"
@@ -182,195 +125,58 @@ Location    Indonesia
 />
 
 <img
+    src="https://img.shields.io/badge/Backend-Laravel-7C3AED?style=for-the-badge&labelColor=0D001A"
+    alt="Laravel"
+/>
+
+<img
     src="https://img.shields.io/badge/Architecture-Multi_Company-7C3AED?style=for-the-badge&labelColor=0D001A"
     alt="Multi Company"
 />
 
-<img
-    src="https://img.shields.io/badge/Backend-Laravel-7C3AED?style=for-the-badge&labelColor=0D001A"
-    alt="Laravel Backend"
-/>
-
 </div>
 
-<br>
+---
 
-OneIS Central is a Laravel-based enterprise application for managing master
-data, operational requests, approval workflows, reporting, permissions, and
-company-specific databases.
-
-### Main Modules
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 👥 Customer
-
-Customer Master Request
-
-</td>
-<td width="33%" align="center">
-
-### 📦 Item
-
-Item Master Request
-
-</td>
-<td width="33%" align="center">
-
-### 🛠️ IT
-
-IT Recommendation
-
-</td>
-</tr>
-</table>
-
-### Core Capabilities
+## 🌌 Development Focus
 
 <div align="center">
 
 <img
-    src="https://img.shields.io/badge/Multi--Company-0D001A?style=for-the-badge&logo=databricks&logoColor=A855F7"
-    alt="Multi Company"
+    src="https://img.shields.io/badge/Business_Applications-0D001A?style=for-the-badge&logo=buffer&logoColor=A855F7"
+    alt="Business Applications"
 />
 
 <img
-    src="https://img.shields.io/badge/Approval_Workflow-2B0A52?style=for-the-badge&logo=gitbook&logoColor=white"
-    alt="Approval Workflow"
+    src="https://img.shields.io/badge/Approval_Workflows-2E1065?style=for-the-badge&logo=gitbook&logoColor=FFFFFF"
+    alt="Approval Workflows"
 />
 
 <img
-    src="https://img.shields.io/badge/Role_Permission-0D001A?style=for-the-badge&logo=auth0&logoColor=A855F7"
-    alt="Role Permission"
+    src="https://img.shields.io/badge/Multi--Company_Systems-0D001A?style=for-the-badge&logo=databricks&logoColor=A855F7"
+    alt="Multi Company Systems"
 />
 
 <img
-    src="https://img.shields.io/badge/Excel_Reports-2B0A52?style=for-the-badge&logo=microsoftexcel&logoColor=white"
-    alt="Excel Reports"
+    src="https://img.shields.io/badge/Role_Based_Access-2E1065?style=for-the-badge&logo=auth0&logoColor=FFFFFF"
+    alt="Role Based Access"
 />
 
 <img
-    src="https://img.shields.io/badge/PDF_Reports-0D001A?style=for-the-badge&logo=adobeacrobatreader&logoColor=A855F7"
-    alt="PDF Reports"
+    src="https://img.shields.io/badge/Excel_Reporting-0D001A?style=for-the-badge&logo=microsoftexcel&logoColor=A855F7"
+    alt="Excel Reporting"
+/>
+
+<img
+    src="https://img.shields.io/badge/PDF_Reporting-2E1065?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFFFFF"
+    alt="PDF Reporting"
 />
 
 </div>
 
-<br>
-
-<details>
-<summary><strong>👥 Customer Master Request</strong></summary>
-
-<br>
-
-Customer master-data request system with supporting documents,
-customer-code assignment, and multi-level approval.
-
-**Workflow**
-
-`Draft` → `Submitted` → `Checked by AR` → `Head Sales Approval` → `Final Approval`
-
-**Highlights**
-
-- New, update, delete, and re-activate requests
-- Supporting documents based on customer category
-- AR Staff checking
-- Head of Sales approval
-- FAT Manager final approval
-- Return, rejection, and cancellation
-- Existing customer data loading
-- Customer-code assignment
-- Excel export and PDF reports
-- Role-based action permissions
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>📦 Item Master Request</strong></summary>
-
-<br>
-
-Master-item request workflow for creating, updating, deleting,
-reactivating, and assigning item numbers.
-
-**Workflow**
-
-`Draft` → `Submitted` → `Head Division Approval` → `Final Approval`
-
-**Highlights**
-
-- Inventory and non-inventory item handling
-- Item and inventory-type configuration
-- Warehouse, unit, cost, and sales-price data
-- Head Division approval
-- FAT Manager final approval
-- Return, rejection, and cancellation
-- Item-number assignment
-- Request history
-- Excel export and PDF reports
-- Permission-based actions
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>🛠️ IT Recommendation System</strong></summary>
-
-<br>
-
-IT complaint and recommendation workflow for managing technical issues
-from user submission until supervisor confirmation.
-
-**Workflow**
-
-`Draft` → `Waiting IT Support` → `Process IT Support` → `Waiting Supervisor` → `Completed`
-
-**Alternative Statuses**
-
-`Rejected by IT` • `Cancelled` • `Deleted`
-
-**Highlights**
-
-- Draft and submit IT requests
-- Automatic request-number generation
-- User, NIK, company, and department information
-- Multiple photo uploads with descriptions
-- File type and size validation
-- IT Support investigation confirmation
-- Analysis and investigation results
-- Recommended solutions and handling instructions
-- IT Support rejection with reasons
-- Supervisor confirmation
-- Process timeline and audit logs
-- User and approver notifications
-- Excel export by period and department
-- PDF reports with company identity
-- Digital signatures for all approval parties
-- Multi-company database support
-
-</details>
-
 ---
 
-## 🧠 Engineering Focus
-
-```text
-Clean Code             ███████████████████░
-Laravel Development    ███████████████████░
-Business Workflows     ██████████████████░░
-Database Design        █████████████████░░░
-JavaScript             ████████████████░░░░
-System Architecture    ███████████████░░░░░
-```
-
----
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -383,14 +189,14 @@ System Architecture    ███████████████░░░░
 
 <a href="https://www.linkedin.com/in/asrulfami/">
     <img
-        src="https://img.shields.io/badge/LinkedIn-Connect-2B0A52?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"
+        src="https://img.shields.io/badge/LinkedIn-Let's_Connect-2E1065?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
         alt="LinkedIn Profile"
     />
 </a>
 
 <a href="mailto:asrulfamiwork@gmail.com">
     <img
-        src="https://img.shields.io/badge/Gmail-asrulfamiwork@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/Gmail-asrulfamiwork@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
         alt="Send Email"
     />
 </a>
@@ -406,6 +212,10 @@ System Architecture    ███████████████░░░░
 
 <br><br>
 
-**Laravel Developer from Indonesia**
+<img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:2E1065,100:090014"
+    alt="Footer"
+/>
 
 </div>
