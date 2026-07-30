@@ -6,9 +6,11 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D001A
 alt="Asrul Fami banner"
 />
 
-👻 Building structured Laravel applications, business systems, and reliable backend services.
+👻 Building structured business applications, reliable systems, and practical digital solutions.
 
-<a href="https://github.com/asrulfami">GitHub</a>·<a href="https://www.linkedin.com/in/asrulfami/">LinkedIn</a>·<a href="mailto:asrulfamiwork@gmail.com">Email</a>
+<a href="https://github.com/asrulfami">GitHub</a> ·
+<a href="https://www.linkedin.com/in/asrulfami/">LinkedIn</a> ·
+<a href="mailto:asrulfamiwork@gmail.com">Email</a>
 
 </div>
 
