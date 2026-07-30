@@ -142,17 +142,17 @@ A Laravel-based multi-company business application containing master data module
 <div align="center">
 
 <img
- height="170"
- src="https://github-readme-stats.vercel.app/api?username=asrulfami&show_icons=true&hide_border=true&bg_color=0D001A&title_color=A855F7&icon_color=8B5CF6&text_color=E9D5FF"
- alt="Asrul Fami GitHub statistics"
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=asrulfami&show_icons=true&hide_border=true&bg_color=0D001A&title_color=A855F7&icon_color=8B5CF6&text_color=E9D5FF"
+    alt="Asrul Fami GitHub Statistics"
 />
 
 <br><br>
 
 <img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrulfami&layout=compact&hide_border=true&bg_color=0D001A&title_color=A855F7&text_color=E9D5FF"
- alt="Most used languages"
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asrulfami&layout=compact&hide_border=true&bg_color=0D001A&title_color=A855F7&text_color=E9D5FF"
+    alt="Asrul Fami Most Used Languages"
 />
 
 </div>
@@ -166,18 +166,22 @@ A Laravel-based multi-company business application containing master data module
 <a href="https://github.com/asrulfami">
     <img
         src="https://img.shields.io/badge/GitHub-0D001A?style=for-the-badge&logo=github&logoColor=A855F7"
-        alt="GitHub profile"
+        alt="GitHub Profile"
     />
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/asrulfami/">
+    <img
+        src="https://img.shields.io/badge/LinkedIn-2B0A52?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"
+        alt="LinkedIn Profile"
+    />
+</a>
 
----
-
-<div align="center">
-
-### 👻 Code Quietly. Build Powerfully.
-
-![Ghost Purple](https://img.shields.io/badge/GHOST_PURPLE-DARK_MODE-7C3AED?style=for-the-badge&labelColor=0D001A)
+<a href="mailto:asrulfamiwork@gmail.com">
+    <img
+        src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Send Email"
+    />
+</a>
 
 </div>
